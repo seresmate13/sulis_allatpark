@@ -51,3 +51,31 @@ body{
 p{
     background-color: white;
 }
+
+.fk{
+    font-weight: bold;
+}
+
+.sorki{
+    text-align: justify;
+}
+
+h1{
+    margin: 10px;
+}
+
+#zold_ragyogas
+{
+-webkit-filter: drop-shadow(0px 0px 15px green);
+filter: drop-shadow(0px 0px 15px green);
+}
+
+.kozepre-kep{
+    display: block;
+    margin: 5px auto;
+}
+
+#nyil{
+    height: 1em;
+}
+
